@@ -294,12 +294,13 @@ class CalcController {
     }
 
     initButtonsEvents() {
-        let buttons = document.querySelectorAll("#buttons > g, #parts > g");
+        //let buttons = document.querySelectorAll("#buttons > g, #parts > g");
+        let buttons = document.querySelectorAll("#buttons > button");
 
         buttons.forEach((btn, index) => {
             this.addEventListenerAll(btn, 'click drag', e => {
                 //console.log(btn.className.baseVal.replace("btn-","")); //baseVal porque é um SVG
-                let textBtn = btn.className.baseVal.replace("btn-", ""); //baseVal porque é um SVG
+                let textBtn = btn.className.replace("btn-", ""); //baseVal porque é um SVG
                 this.execBtn(textBtn);
             });
 
