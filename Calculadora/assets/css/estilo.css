@@ -1,56 +1,42 @@
-button {
-	
+button {	
 	border: 0;
-    margin: 1px -1px 0px -1px;
-		
-		
+  margin: 1px -1px;		
 }
+
 .h1 {font-family: sans-serif;
 	 font-size: 100px;
 	 color: white;
 	 text-align: center;
-	
 }
 	
 .h2 {font-family: sans-serif;
 	 font-size: 25px;
 	 color: white;
 	 text-align: center;	
-	 	
 }
-
 
 hr { 
-	
     margin-top: -60px;
-	
 }
-
-
 
 .p1 {
 	color: #CCCCCC;
 	font-family: sans-serif;
 	font-size: 15px;
-	
 }
 
 .p2 {
 	color: #CCCCCC;
 	font-family: sans-serif;
 	font-size: 15px;
-	margin-left: 75px;
-	
 }
-
 
 .p3{
 	color: #ffffff;
 	font-family:fantasy;
 	font-size: 40px;
-	margin-left:230px;
+	margin-left:10px;
 }
-
 
 .p4 {
 	font-family: sans-serif;
@@ -59,9 +45,6 @@ hr {
 	text-shadow: 0,1em 0,1em 0,05em #333;
 	text-align: center;
 	padding-left: 10px;
-	
-	
-
 	}
 	
 .bg-principal{
@@ -117,9 +100,6 @@ hr {
 	float: left;
 	margin-top:2px;
 	background-color:  #2c3e50;
-	
-		
-		
 }
 .display {
 	background-color: orange;
@@ -132,136 +112,14 @@ hr {
 }
 
 .btn-soma {
-	background-color: #efefefef;
-    width: 77px;
-    height: 121px;
-    border-color: #2c3e50;
-    border-radius: 2px;
-    float: right;
-    margin: 1px 7px -1px 2px;
+	border-color: #2c3e50;
+	float: right;
+	margin: 1px 7px -1px 2px;
 }
 
-
-
-
-
-.btn-ac {
+.btn-soma, .btn-ac,.btn-ce,.btn-porcento,.btn-divisao,.btn-7,.btn-8,.btn-9,.btn-multiplicacao,.btn-4,.btn-5,.btn-6, .btn-subtracao,.btn-1, .btn-2,.btn-3,.btn-0, .btn-ponto, .btn-igual {
 	font-family: sans-serif;
 	font-size: 30px;
 	color:  #2c3e50;
+	border-radius: 4px;
 }
-
-.btn-ce {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:#2c3e50 ;
-	
-}
-
-.btn-porcento {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-divisao {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-
-}
-
-.btn-7 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-8 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-9 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-multiplicacao {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-4 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-5 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-6 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-subtracao {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-1 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-2 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-3 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-0 {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-.btn-ponto {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-}
-
-
-
-.btn-igual {
-	font-family: sans-serif;
-	font-size: 30px;
-	color:  #2c3e50;
-	
-}
-
-
-
-
-
-
-
-

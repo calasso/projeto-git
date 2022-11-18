@@ -2,7 +2,7 @@ class CalcController {
     //uma classe é conjunto de atributos e métodos (variáveis e funções)
 
     constructor() {
-        this._audio = new Audio('click.mp3');
+        this._audio = new Audio('./assets/others/click.mp3');
         this._audioOnOff = false;
         this._lastOperator = '';
         this._lastNumber = '';
