@@ -8,3 +8,5 @@
 ✨ _Calculadora_
 
 ✨ _Tabela Nutricional_
+
+✨ _Lista de Pokemons (Pokedex)_
