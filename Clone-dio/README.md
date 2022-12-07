@@ -1,7 +1,8 @@
 </div>
 <div style="display: inline_block">
   <h1>React e TypeScript - DIO Clone</h1>
-  <p>Projeto desenvolvido no bootcamp da<a href="https://www.dio.me/">DIO</a> <a href="https://web.dio.me/track/orange-tech/">Orange Tech +</a></p>
+  <p>Projeto desenvolvido no bootcamp da <a href="https://www.dio.me/">DIO</a> </p>
+  <p><a href="https://web.dio.me/track/orange-tech/">Orange Tech +</a></p>
   <h2>Tecnologias</h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -12,7 +13,7 @@
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <h2>Projeto</h2>
-  <img alt="Home" src="https://github.com/calasso/projetos-javascript/tree/master/Clone-dio/README/home.png">
+  <img alt="Home" src="https://github.com/calasso/projetos-javascript/blob/master/Clone-dio/README/home.png">
   <h2>Contact</h2>
   <a href="https://www.linkedin.com/in/raphael-calasso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:rcalasso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
